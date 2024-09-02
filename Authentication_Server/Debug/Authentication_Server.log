@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\psyc\source\repos\Authentication_Server\Authentication_Server\RedisManager.hpp(18,10): error C1083: 포함 파일을 열 수 없습니다. 'hiredis/hiredis.h': No such file or directory

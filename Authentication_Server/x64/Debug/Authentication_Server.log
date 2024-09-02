@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\psyc\source\repos\Authentication_Server\Authentication_Server\hiredis_lib\include\hiredis\sds.h(55,10): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\psyc\source\repos\Authentication_Server\Authentication_Server\hiredis_lib\include\hiredis\sds.h(61,10): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\psyc\source\repos\Authentication_Server\Authentication_Server\hiredis_lib\include\hiredis\sds.h(67,10): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\psyc\source\repos\Authentication_Server\Authentication_Server\hiredis_lib\include\hiredis\sds.h(73,10): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\psyc\source\repos\Authentication_Server\Authentication_Server\hiredis_lib\include\hiredis\sds.h(79,10): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\psyc\source\repos\Authentication_Server\Authentication_Server\Database.hpp(569,18): warning C4244: '인수': 'unsigned long'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\psyc\source\repos\Authentication_Server\Authentication_Server\Database.hpp(574,18): warning C4244: '인수': 'unsigned long'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\psyc\source\repos\Authentication_Server\Authentication_Server\Database.hpp(581,17): warning C4244: '인수': 'unsigned long'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\psyc\source\repos\Authentication_Server\Authentication_Server\AuthServer.hpp(167,15): warning C4244: '인수': 'long'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\psyc\source\repos\Authentication_Server\Authentication_Server\AuthServer.hpp(252,34): warning C4838: 'time_t'에서 'unsigned __int64'(으)로의 변환에는 축소 변환이 필요합니다.
+  Authentication_Server.vcxproj -> C:\Users\psyc\source\repos\Authentication_Server\x64\Debug\Authentication_Server.exe
